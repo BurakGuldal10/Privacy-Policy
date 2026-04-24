@@ -68,9 +68,6 @@ We use collected information to:
     is never uploaded or shared.
   - We retain your data for as long as your account is active or
     as required by law.
-  - To request deletion of your personal data, contact us at
-    guldaliburak04@gmail.com. We will process your request within
-    30 days.
 
 ────────────────────────────────────────
 5. CHILDREN'S PRIVACY
@@ -82,9 +79,7 @@ accessibility apps). In such cases:
 
   - We do not knowingly collect personal data from children under 13
     without verifiable parental or guardian consent.
-  - If you believe a child has submitted personal data without consent,
-    please contact us immediately at guldaliburak04@gmail.com and we
-    will promptly delete the information.
+  - If you believe a child has submitted personal data without consent
 
 Apps not intended for children are designed for users aged 13 and older.
 
@@ -111,7 +106,6 @@ Regardless of your location, you have the right to:
   - Withdraw consent for data processing at any time
   - Lodge a complaint with a supervisory authority
 
-To exercise any of these rights, contact: guldaliburak04@gmail.com
 
 ────────────────────────────────────────
 8. COOKIES & TRACKING
